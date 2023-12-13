@@ -1,7 +1,6 @@
 ![banner](/profile/banner.png)
 
-## Projeto Coruja
+## NES Collaborate :technologist::tada:
 
-Organização do projeto de prática e pesquisa do **NES (Novo Ensino Suplementar)**.
+Esta organização tem como principal propósito proporcionar um ambiente propício à colaboração no desenvolvimento de soluções para o **Novo Ensino Suplementar (NES)** por meio de seus alunos! 👏
 
-Este Projeto tem o objetivo de desenvolver uma aplicação Web para gerenciar cargos e permissões em uma organizacional composta por órgãos, instituições, análises de risco e ativos. Além de possibilitar a realização de avaliações de ameaças e ações adversas, assim como a atribuição de notas por especialistas independentemente.
